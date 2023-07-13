@@ -62,7 +62,7 @@
     </script>
   </head>
 
-  <body bgcolor="FFC0D0" onload="Init()">
+  <body bgcolor="DCBE96" onload="Init()">
 <H2>Conexiones desde ---FQDM--- hacia ---DEST--- durante ---LAPSO---</H2>
  * servicio 100% activo | # servicio 100% activo y es hora en punto
 1~9 servicio activo 10% ~ 90%
